@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Samplekakao</string>
+    <string name="action_settings">Settings</string>
+    <string name="kakao_app_key">5fed5ec771e62d05f66fabe6019ca677</string>
+    <string name="kakao_scheme">kakao5fed5ec771e62d05f66fabe6019ca677</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
